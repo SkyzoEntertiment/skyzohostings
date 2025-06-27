@@ -1,0 +1,61 @@
+{
+  "product_thumbnails": [
+    {
+      "name": "Panel Hosting",
+      "url": "https://files.catbox.moe/ra4ek1.jpg"
+    },
+    {
+      "name": "Patner Private Skyzo",
+      "url": "https://files.catbox.moe/6v100j.jpg"
+    },
+    {
+      "name": "Bot Whatsapp",
+      "url": "https://files.catbox.moe/3vunsd.jpg"
+    },
+    {
+      "name": "Script Free V1",
+      "url": "https://files.catbox.moe/314pnl.jpg"
+    }
+  ],
+  "social_media_links": [
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/skyzoofficial",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/skyzoofficial",
+      "icon_url": "https://files.catbox.moe/xycd9c.png"
+    },
+    {
+      "platform": "WhatsApp",
+      "url": "https://whatsapp.com/channel/0029VbB9TcZIN9imehcco82m",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+    }
+  ],
+  "whatsapp_numbers": {
+    "general_contact": "6285752149527",
+    "payment_confirmation": "6285742149527",
+    "payment_methods": [
+      {
+        "method": "DANA",
+        "number": "085752107633"
+      },
+      {
+        "method": "GoPay",
+        "number": "08XXXXX"
+      },
+      {
+        "method": "OVO",
+        "number": "08XXXXX"
+      }
+    ]
+  },
+  "script_download_links": [
+    {
+      "name": "Script Free V1",
+      "url": "https://www.mediafire.com/file/le1x9g67iax1ai5/SC_JPMCH_MARCELEVEN_V4.0.zip/file"
+    }
+  ]
+}
